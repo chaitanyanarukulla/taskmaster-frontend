@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Lab 28: TaskMaster FrontEnd
 
 ## Link to deployed site
-[S3 Deployment]()
+[S3 Deployment](http://reacttaskapp.s3-website-us-west-1.amazonaws.com/)
 
 ## Description
 This react application serves as a UI for the AmazonDynamoDB server. Back end is located [here](http://taskmaster-dev-2.us-west-2.elasticbeanstalk.com/)
