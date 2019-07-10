@@ -1,6 +1,7 @@
 import React from 'react';
 
-const API =   "http://localhost:5000";
+const API =  "http://taskmaster-dev-1.us-west-1.elasticbeanstalk.com";
+
 
 class AddImage extends React.Component{
   render(){
@@ -13,4 +14,5 @@ class AddImage extends React.Component{
   }
 }
 
-export default AddImage;
+
+export default AddImage;;
