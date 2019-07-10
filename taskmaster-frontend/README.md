@@ -16,6 +16,8 @@ You can do the following:
   - requires title
   - requires description
   - requires either assignee or status
+  - status
+  - pic
 - delete a task
 
 ## Contributors
